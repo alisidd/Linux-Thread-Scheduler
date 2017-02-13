@@ -1,3 +1,7 @@
+# Linux-Thread-Scheduler
+
+A C program that simulates the flow of multiple threads and schedules them according to priority
+
 Instructions:
 
 1. Open terminal
